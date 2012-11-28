@@ -1,0 +1,14 @@
+{
+   "name": "tabs",
+   "version": "0.0.0",
+   "dependencies": {
+      "async": "*",
+      "connect-mongo": "*",
+      "express": "3.x",
+      "mongodb": "*",
+      "request": "*",
+      "sprintf": "*",
+      "swig": "*",
+      "underscore": "*"
+   }
+}
